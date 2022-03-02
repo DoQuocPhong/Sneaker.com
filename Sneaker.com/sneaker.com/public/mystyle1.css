@@ -1,0 +1,11 @@
+.image_background{
+    width: 100%;
+    height: auto;
+    background-image: url("image-header/9.png");
+    background-size: cover;
+    background-attachment: fixed;
+    opacity: 100%;
+}
+.image_background1{
+    background-color: white;
+}
